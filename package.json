@@ -2,25 +2,13 @@
   "name": "cv",
   "version": "0.0.1",
   "main": "index.js",
-  "repository": "https://github.com:ratenio/ratenio.github.io",
-  "author": "Pavel <rateniomania@gmail.com>",
-  "license": "MIT",
-  "watch": {
-    "convert": "cv.yaml"
-  },
   "scripts": {
-    "convert": "js-yaml cv.yaml > cv.json",
-    "build": "npm run convert && rm -rf ./public && mkdir ./public && cv export -t elegant --format html ./public/index.html",
-    "serve": "cv serve -t elegant",
-    "watch": "npm-watch",
-    "deploy": "gh-pages -b gh-pages -d public"
+    "build": "rm -rf ./public && mkdir ./public && resumed render -o ./public/index.html"
   },
+  "author": "ratenio",
+  "license": "MIT",
   "dependencies": {
-    "gh-pages": "^2.1.1",
-    "js-yaml": "^3.13.1",
-    "jsonresume-theme-elegant": "^1.13.1",
-    "memcached-cli": "^1.0.3",
-    "npm-watch": "^0.6.0",
-    "resume-cli": "^1.2.7"
+    "jsonresume-theme-even": "^0.23.0",
+    "resumed": "^6.0.0"
   }
 }

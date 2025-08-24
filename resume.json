@@ -3,7 +3,7 @@
   "basics": {
     "name": "Pavel",
     "label": "Senior DevOps Engineer",
-    "image": "https://gravatar.com/avatar/cGF2ZWwucG9sb3ZuZXZAZ21haWwuY29tCg==",
+    "email": "rateniomania@mail.com",
     "location": {
       "countryCode": "LT",
       "city": "Vilnius",
@@ -12,13 +12,40 @@
   },
   "skills": [
     {
-      "name": "DevOps",
+      "name": "Clouds",
       "level": "Master",
       "keywords": [
         "AWS",
-        "Kubernetes",
-        "Terraform"
+        "OCI",
+        "GCP"
       ]
+    },
+    {
+      "name": "Kubernetes",
+      "level": "Master",
+      "keywords": [
+        "Containerization",
+        "GitOps",
+        "Helm"
+      ]
+    },
+    {
+      "name": "IaC",
+      "level": "Master",
+      "keywords": [
+        "Terraform",
+        "CloudFormation"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Native speaker"
     }
   ],
   "meta": {

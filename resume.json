@@ -3,8 +3,11 @@
   "basics": {
     "name": "Pavel",
     "label": "Senior DevOps Engineer",
+    "image": "https://gravatar.com/avatar/cGF2ZWwucG9sb3ZuZXZAZ21haWwuY29tCg==",
     "location": {
-      "countryCode": "LT"
+      "countryCode": "LT",
+      "city": "Vilnius",
+      "region": "Vilnius"
     }
   },
   "skills": [

@@ -22,6 +22,14 @@
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/sample.resume.json",
     "version": "v1.0.0",
     "lastModified": "2017-12-24T15:53:00",
-    "theme": "jsonresume-theme-even"
+    "theme": "jsonresume-theme-even",
+    "themeOptions": {
+      "colors": {
+        "background": ["#ffffff", "#191e23"],
+        "dimmed": ["#f3f4f5", "#23282d"],
+        "primary": ["#191e23", "#fbfbfc"],
+        "secondary": ["#6c7781", "#ccd0d4"],
+        "accent": ["#0073aa", "#00a0d2"]
+      }
   }
 }

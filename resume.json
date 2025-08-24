@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Pavel",
-    "label": "Senior DevOps Engineer"
+    "label": "Senior DevOps Engineer",
     "location": {
       "countryCode": "LT",
       "city": "Vilnius",

@@ -106,9 +106,31 @@
       ]
     }
   ],
+  "projects": [
+    {
+      "name": "Miss Direction",
+      "description": "A mapping engine that misguides you",
+      "highlights": [
+        "Won award at AIHacks 2016",
+        "Built by all women team of newbie programmers",
+        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
+      ],
+      "keywords": [
+        "GoogleMaps", "Chrome Extension", "Javascript"
+      ],
+      "startDate": "2016-08-24",
+      "endDate": "2016-08-24",
+      "url": "http://missdirection.example.com",
+      "roles": [
+        "Team lead", "Designer"
+      ],
+      "entity": "Smoogle",
+      "type": "application"
+    }
+  ],
   "skills": [
     {
-      "name": "Clouds",
+      "name": "Public clouds",
       "level": "Master",
       "keywords": [
         "AWS",
@@ -120,7 +142,7 @@
       "name": "Kubernetes",
       "level": "Master",
       "keywords": [
-        "Containerization",
+        "ArgoCD",
         "GitOps",
         "Helm"
       ]
@@ -130,15 +152,39 @@
       "level": "Master",
       "keywords": [
         "Terraform",
+        "Terragrunt",
+        "Terraspace",
+        "Terrafrom CDK",
         "CloudFormation"
       ]
     },
     {
-      "name": "test",
-      "level": "Intermediate",
+      "name": "CI/CD",
+      "level": "Master",
       "keywords": [
-        "test",
-        "test2"
+        "GitLab CI",
+        "Jenkins",
+        "TeamCity",
+        "CircleCI",
+        "Bitbucket Pipelines",
+        "AWS CodePipeline"
+      ]
+    },
+    {
+      "name": "Scripting",
+      "level": "Master",
+      "keywords": [
+        "Bash",
+        "Python",
+        "SQLplus"
+      ]
+    },
+    {
+      "name": "Configuration Management",
+      "level": "Master",
+      "keywords": [
+        "Ansible",
+        "SaltStack"
       ]
     }
   ],

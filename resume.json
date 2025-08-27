@@ -9,7 +9,19 @@
       "countryCode": "LT",
       "city": "Vilnius",
       "region": "Vilnius"
-    }
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "pavelpalauniou",
+        "url": "https://www.linkedin.com/in/pavelpalauniou/"
+      },
+      {
+        "network": "GitHub",
+        "username": "ratenio",
+        "url": "https://ratenio.github.io"
+      }
+  ]
   },
   "work": [
     {

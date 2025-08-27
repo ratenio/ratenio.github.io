@@ -1,8 +1,8 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Pavel",
-    "label": "Senior DevOps Engineer",
+    "name": "Pavel Palauniou",
+    "label": "Cloud | Platform | DevOps engineer | Turning 'It works on my laptop' into reality",
     "summary": "Hello! I'm a Senior DevOps Engineer with expertise in public clouds, automation, and high-available systems. Experienced in optimizing production infrastructure, improving deployment processes, and ensuring system security and stability.",
     "location": {
       "countryCode": "LT",
@@ -46,6 +46,63 @@
         "Design and implement a Kubernetes production ecosystem.",
         "Collaborate with the R&D department to improve CI/CD pipelines and cloud infrastructure.",
         "Collaborate with SRE team to improve production stability."
+      ]
+    },
+    {
+      "name": "Godel Technologies Europe",
+      "location": "Minsk, BY",
+      "description": "Godel is a leading, next-generation technology consulting company with some of the most exceptional software engineering talents in Europe",
+      "position": "Senior DevOps engineer",
+      "url": "https://www.godeltech.com/",
+      "startDate": "2018-07-01",
+      "endDate": "2018-11-30",
+      "highlights": [
+        "Took over management of AWS cloud infrastructure within two weeks and resolved performance issues with ElastiCache, ensuring improved system efficiency and stability.",
+        "Was the only person providing 24/7 production support for three months, independently handling critical incidents and resolving PagerDuty alerts, often was receiving calls nightly."
+      ]
+    },
+    {
+      "name": "Wargaming",
+      "location": "Minsk, BY",
+      "description": "Wargaming is a leading game developer and publisher",
+      "position": "Senior System Administrator (focus on Linux)",
+      "url": "https://wargaming.net/en",
+      "startDate": "2018-06-01",
+      "endDate": "2018-06-30",
+      "highlights": [
+        "Implemented SaltStack as a configuration management system, automating OS updates, user access control, and software installation to enhance security and operational efficiency.",
+        "Worked with technologies including Ubuntu, CentOS, Linux system administration, backup management (EMC Networker, Veeam), disaster recovery planning, Nginx, HAProxy, Tomcat, MySQL, PostgreSQL, TeamCity, JIRA, Subversion, Git, Perforce, Elasticsearch, Logstash, and Kibana."
+      ]
+    },
+    {
+      "name": "Priorbank JSC",
+      "location": "Minsk, BY",
+      "description": "The largest commercial bank in Belarus",
+      "position": "Senior System Administrator (focus on Linux and HP-UX)",
+      "url": "https://priorbank.by/en",
+      "startDate": "2012-08-01",
+      "endDate": "2016-07-30",
+      "highlights": [
+        "Administered and maintained two data centers with HP Superdome servers, ensuring high availability and optimal performance.",
+        "Managed and implemented Serviceguard on Linux/HP-UX for clustering and failover solutions.",
+        "Completed on-site training at HP to enhance expertise in high-availability technologies.",
+        "Developed and deployed a highly available load balancer using Nginx, DNS round-robin, Keepalived, and database replication enabling high availability, redundancy and zero-downtime releases.",
+        "Optimized system performance and fine-tuned configurations on RHEL, HP-UX, and CentOS environments to enhance stability and efficiency.",
+        "Conducted firmware updates and hardware maintenance for Itanium-based systems."
+      ]
+    },
+    {
+      "name": "R&D Enterprise Horizont",
+      "location": "Minsk, BY",
+      "description": "Research and Development company",
+      "position": "System Administrator",
+      "url": "https://h-rnd.by/en/",
+      "startDate": "2010-06-01",
+      "endDate": "2012-06-30",
+      "highlights": [
+        "Negotiated with ISP vendors and successfully upgraded the company’s internet connection from ADSL to fiber optic",
+        "Led office network cabling projects, designing and installing robust network infrastructure",
+        "Assisted with hardware configuration and troubleshooting, supporting both day-to-day operations and new equipment rollouts"
       ]
     }
   ],

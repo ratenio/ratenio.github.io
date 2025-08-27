@@ -19,14 +19,33 @@
       "url": "https://sapiens.com",
       "startDate": "2023-05-01",
       "highlights": [
-        "- Develop and support a continuous delivery framework using Bash, Python, and GitLab CI.",
-        "- Assist developers in troubleshooting Oracle Cloud, AWS, Kubernetes, GitLab pipelines,  Auth0,  WebLogic, and Database issues.",
-        "- Improve deployment stability and frequency by migrating APIs from AWS ECS to Oracle Cloud Kubernetes.",
-        "- Optimize infrastructure by refactoring Terraform, CloudFormation and Ansible code reducing provisioning time.",
-        "- Resolve critical security vulnerabilities in OCI and AWS, enhancing overall system security.",
-        "- Design and implement a Kubernetes production ecosystem.",
-        "- Collaborate with the R&D department to improve CI/CD pipelines and cloud infrastructure.",
-        "- Collaborate with SRE team to improve production stability."
+        "Develop and support a continuous delivery framework using Bash, Python, and GitLab CI.",
+        "Assist developers in troubleshooting Oracle Cloud, AWS, Kubernetes, GitLab pipelines,  Auth0,  WebLogic, and Database issues.",
+        "Improve deployment stability and frequency by migrating APIs from AWS ECS to Oracle Cloud Kubernetes.",
+        "Optimize infrastructure by refactoring Terraform, CloudFormation and Ansible code reducing provisioning time.",
+        "Resolve critical security vulnerabilities in OCI and AWS, enhancing overall system security.",
+        "Design and implement a Kubernetes production ecosystem.",
+        "Collaborate with the R&D department to improve CI/CD pipelines and cloud infrastructure.",
+        "Collaborate with SRE team to improve production stability."
+      ]
+    },
+    {
+      "name": "Softeq",
+      "location": "Vilnius, LT",
+      "description": "Global company specializing in embedded and hardware technology solutions for digital transformation",
+      "position": "Senior DevOps engineer",
+      "url": "https://www.softeq.com/",
+      "startDate": "2019-02-01",
+      "endDate": "2023-04-30",
+      "highlights": [
+        "Develop and support a continuous delivery framework using Bash, Python, and GitLab CI.",
+        "Assist developers in troubleshooting Oracle Cloud, AWS, Kubernetes, GitLab pipelines, Auth0, WebLogic, and Database issues.",
+        "Improve deployment stability and frequency by migrating APIs from AWS ECS to Oracle Cloud Kubernetes.",
+        "Optimize infrastructure by refactoring Terraform, CloudFormation and Ansible code reducing provisioning time.",
+        "Resolve critical security vulnerabilities in OCI and AWS, enhancing overall system security.",
+        "Design and implement a Kubernetes production ecosystem.",
+        "Collaborate with the R&D department to improve CI/CD pipelines and cloud infrastructure.",
+        "Collaborate with SRE team to improve production stability."
       ]
     }
   ],
@@ -59,7 +78,7 @@
     },
     {
       "name": "test",
-      "level": "Newbie",
+      "level": "Intermediate",
       "keywords": [
         "test",
         "test2"

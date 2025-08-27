@@ -106,28 +106,6 @@
       ]
     }
   ],
-  "projects": [
-    {
-      "name": "Miss Direction",
-      "description": "A mapping engine that misguides you",
-      "highlights": [
-        "Won award at AIHacks 2016",
-        "Built by all women team of newbie programmers",
-        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
-      ],
-      "keywords": [
-        "GoogleMaps", "Chrome Extension", "Javascript"
-      ],
-      "startDate": "2016-08-24",
-      "endDate": "2016-08-24",
-      "url": "http://missdirection.example.com",
-      "roles": [
-        "Team lead", "Designer"
-      ],
-      "entity": "Smoogle",
-      "type": "application"
-    }
-  ],
   "skills": [
     {
       "name": "Public clouds",
@@ -190,10 +168,28 @@
   ],
   "certificates": [
     {
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
+      "name": "CKA: Certified Kubernetes Administrator",
+      "date": "2024-01-15",
+      "issuer": "The Linux Foundation",
+      "url": "https://www.credly.com/badges/40b3d579-8a80-4b5c-9f0f-270e0ec1c17c"
+    },
+    {
+      "name": "AWS Certified DevOps Engineer - Professional",
+      "date": "2019-11-21",
+      "issuer": "Amazon Web Services (AWS)",
+      "url": "https://www.credly.com/badges/92600cad-83c7-438b-9943-0201857b126f/public_url"
+    },
+    {
+      "name": "AWS Certified Solutions Architect – Associate",
+      "date": "2019-01-09",
+      "issuer": "Amazon Web Services (AWS)",
+      "url": "https://www.credly.com/badges/4534f957-97de-42e1-9002-c2b6889d5015/public_url"
+    },
+    {
+      "name": "AWS Certified SysOps Administrator - Associate",
+      "date": "2019-01-10",
+      "issuer": "Amazon Web Services (AWS)",
+      "url": "https://www.credly.com/badges/02c63ab9-bdc4-4adc-851d-f5905f9732bb/public_url"
     }
   ],
   "education": [

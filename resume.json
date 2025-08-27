@@ -3,12 +3,33 @@
   "basics": {
     "name": "Pavel",
     "label": "Senior DevOps Engineer",
+    "summary": "Hello! I'm a Senior DevOps Engineer with expertise in public clouds, automation, and high-available systems. Experienced in optimizing production infrastructure, improving deployment processes, and ensuring system security and stability.",
     "location": {
       "countryCode": "LT",
       "city": "Vilnius",
       "region": "Vilnius"
     }
   },
+  "work": [
+    {
+      "name": "Sapiens",
+      "location": "Vilnius, LT",
+      "description": "Global leader in intelligent insurance software solutions.",
+      "position": "Senior DevOps engineer",
+      "url": "https://sapiens.com",
+      "startDate": "2023-05-01",
+      "highlights": [
+        "- Develop and support a continuous delivery framework using Bash, Python, and GitLab CI.",
+        "- Assist developers in troubleshooting Oracle Cloud, AWS, Kubernetes, GitLab pipelines,  Auth0,  WebLogic, and Database issues.",
+        "- Improve deployment stability and frequency by migrating APIs from AWS ECS to Oracle Cloud Kubernetes.",
+        "- Optimize infrastructure by refactoring Terraform, CloudFormation and Ansible code reducing provisioning time.",
+        "- Resolve critical security vulnerabilities in OCI and AWS, enhancing overall system security.",
+        "- Design and implement a Kubernetes production ecosystem.",
+        "- Collaborate with the R&D department to improve CI/CD pipelines and cloud infrastructure.",
+        "- Collaborate with SRE team to improve production stability."
+      ]
+    }
+  ],
   "skills": [
     {
       "name": "Clouds",
@@ -35,22 +56,35 @@
         "Terraform",
         "CloudFormation"
       ]
+    },
+    {
+      "name": "test",
+      "level": "Newbie",
+      "keywords": [
+        "test",
+        "test2"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Belarusian State University of Informatics and Radioelectronics",
+      "url": "https://www.bsuir.by/en/",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2005-06-01",
+      "endDate": "2010-06-01"
     }
   ],
   "languages": [
     {
-      "language": "English",
-      "fluency": "Professional working proficiency"
+      "language": "English"
     },
     {
-      "language": "Russian",
-      "fluency": "Native speaker"
+      "language": "Russian"
     }
   ],
   "meta": {
-    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/sample.resume.json",
-    "version": "v1.0.0",
-    "lastModified": "2017-12-24T15:53:00",
     "theme": "jsonresume-theme-even",
     "themeOptions": {
       "colors": {

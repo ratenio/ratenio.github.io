@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Pavel Palauniou",
-    "label": "Cloud | Platform | DevOps engineer",
+    "label": "Cloud | Platform | DevOps",
     "email": "pavel.polovnev@gmail.com",
     "summary": "Hello! I'm a Senior DevOps Engineer with expertise in public clouds, automation, and high-available systems. Experienced in optimizing production infrastructure, improving deployment processes, and ensuring system security and stability.",
     "location": {
@@ -13,13 +13,13 @@
     "profiles": [
       {
         "network": "Linkedin",
-        "username": "pavelpalauniou",
+        "username": "Pavel Palauniou",
         "url": "https://www.linkedin.com/in/pavelpalauniou/"
       },
       {
         "network": "GitHub",
         "username": "ratenio",
-        "url": "https://ratenio.github.io"
+        "url": "https://github.com/ratenio"
       }
   ]
   },

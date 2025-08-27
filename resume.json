@@ -2,7 +2,8 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Pavel Palauniou",
-    "label": "Cloud | Platform | DevOps engineer | Turning 'It works on my laptop' into reality",
+    "label": "Cloud | Platform | DevOps engineer",
+    "email": "pavel.polovnev@gmail.com",
     "summary": "Hello! I'm a Senior DevOps Engineer with expertise in public clouds, automation, and high-available systems. Experienced in optimizing production infrastructure, improving deployment processes, and ensuring system security and stability.",
     "location": {
       "countryCode": "LT",

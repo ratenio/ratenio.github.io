@@ -80,7 +80,7 @@
       "description": "Wargaming is a leading game developer and publisher",
       "position": "Senior System Administrator (focus on Linux)",
       "url": "https://wargaming.net/en",
-      "startDate": "2018-06-01",
+      "startDate": "2016-06-01",
       "endDate": "2018-06-30",
       "highlights": [
         "Implemented SaltStack for configuration management, automating OS updates, user access control, and software installations, which increased update speed and significantly improved predictability and security of system administration.",

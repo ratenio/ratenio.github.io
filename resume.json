@@ -32,13 +32,13 @@
       "url": "https://sapiens.com",
       "startDate": "2023-05-01",
       "highlights": [
-        "Developed and maintained a robust continuous delivery framework using Bash, Python, and GitLab CI."
-        "Troubleshoot complex issues across Oracle Cloud, AWS, Kubernetes, WebLogic, and various database platforms, ensuring rapid incident resolution and minimal downtime."
-        "Optimized infrastructure as code by refactoring Terraform and CloudFormation scripts. "
-        "Identified and resolved critical security vulnerabilities in both OCI and AWS environments, enhancing overall system security and ensuring compliance with internal and external standards."
-        "Designed and implemented a highly available Kubernetes production ecosystem, improving scalability and resilience for business-critical applications."
-        "Led the migration of REST API services from AWS ECS to Oracle Kubernetes Engine (OKE), streamlining deployments and improving system performance."
-        "Collaborated closely with the R&D department to enhance CI/CD pipelines and modernize cloud infrastructure, accelerating the release cycle and supporting innovation initiatives."
+        "Developed and maintained a robust continuous delivery framework using Bash, Python, and GitLab CI.",
+        "Troubleshoot complex issues across Oracle Cloud, AWS, Kubernetes, WebLogic, and various database platforms, ensuring rapid incident resolution and minimal downtime.",
+        "Optimized infrastructure as code by refactoring Terraform and CloudFormation scripts. ",
+        "Identified and resolved critical security vulnerabilities in both OCI and AWS environments, enhancing overall system security and ensuring compliance with internal and external standards.",
+        "Designed and implemented a highly available Kubernetes production ecosystem, improving scalability and resilience for business-critical applications.",
+        "Led the migration of REST API services from AWS ECS to Oracle Kubernetes Engine (OKE), streamlining deployments and improving system performance.",
+        "Collaborated closely with the R&D department to enhance CI/CD pipelines and modernize cloud infrastructure, accelerating the release cycle and supporting innovation initiatives.",
         "Collaborate with the SRE team to improve production stability."
 
       ]

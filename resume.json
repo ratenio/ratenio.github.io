@@ -32,14 +32,15 @@
       "url": "https://sapiens.com",
       "startDate": "2023-05-01",
       "highlights": [
-        "Develop and support a continuous delivery framework using Bash, Python, and GitLab CI.",
-        "Assist developers in troubleshooting Oracle Cloud, AWS, Kubernetes, GitLab pipelines,  Auth0,  WebLogic, and Database issues.",
-        "Improve deployment stability and frequency by migrating APIs from AWS ECS to Oracle Cloud Kubernetes.",
-        "Optimize infrastructure by refactoring Terraform, CloudFormation and Ansible code reducing provisioning time.",
-        "Resolve critical security vulnerabilities in OCI and AWS, enhancing overall system security.",
-        "Design and implement a Kubernetes production ecosystem.",
-        "Collaborate with the R&D department to improve CI/CD pipelines and cloud infrastructure.",
-        "Collaborate with SRE team to improve production stability."
+        "Developed and maintained a robust continuous delivery framework using Bash, Python, and GitLab CI."
+        "Troubleshoot complex issues across Oracle Cloud, AWS, Kubernetes, WebLogic, and various database platforms, ensuring rapid incident resolution and minimal downtime."
+        "Optimized infrastructure as code by refactoring Terraform and CloudFormation scripts. "
+        "Identified and resolved critical security vulnerabilities in both OCI and AWS environments, enhancing overall system security and ensuring compliance with internal and external standards."
+        "Designed and implemented a highly available Kubernetes production ecosystem, improving scalability and resilience for business-critical applications."
+        "Led the migration of REST API services from AWS ECS to Oracle Kubernetes Engine (OKE), streamlining deployments and improving system performance."
+        "Collaborated closely with the R&D department to enhance CI/CD pipelines and modernize cloud infrastructure, accelerating the release cycle and supporting innovation initiatives."
+        "Collaborate with the SRE team to improve production stability."
+
       ]
     },
     {
@@ -51,14 +52,13 @@
       "startDate": "2019-02-01",
       "endDate": "2023-04-30",
       "highlights": [
-        "Develop and support a continuous delivery framework using Bash, Python, and GitLab CI.",
-        "Assist developers in troubleshooting Oracle Cloud, AWS, Kubernetes, GitLab pipelines, Auth0, WebLogic, and Database issues.",
-        "Improve deployment stability and frequency by migrating APIs from AWS ECS to Oracle Cloud Kubernetes.",
-        "Optimize infrastructure by refactoring Terraform, CloudFormation and Ansible code reducing provisioning time.",
-        "Resolve critical security vulnerabilities in OCI and AWS, enhancing overall system security.",
-        "Design and implement a Kubernetes production ecosystem.",
-        "Collaborate with the R&D department to improve CI/CD pipelines and cloud infrastructure.",
-        "Collaborate with SRE team to improve production stability."
+        "Managed AWS EKS clusters across multiple regions, implementing zero-downtime blue-green deployments with Terragrunt, increasing deployment reliability and reducing release-related incidents.",
+        "Developed and automated a secure instance update process using HashiCorp Packer, ensuring full compliance with FedRAMP standards. Improved server consistency and reduced manual patching time.",
+        "Redesigned CI/CD pipelines by replacing sequential Jenkins builds with Docker-based parallel execution on cloud spot instances, boosting release frequency by 3x and cutting build times.",
+        "Integrated AWS Redshift and AWS EMR into the core infrastructure, guaranteeing high availability and meeting strict security compliance requirements for enterprise customers.",
+        "Automated deployment workflows and created detailed documentation, streamlining onboarding and reducing deployment errors.",
+        "Provided ongoing operational support, monitoring, and incident response, maintaining 99.99% uptime for production environments."
+
       ]
     },
     {
@@ -83,8 +83,15 @@
       "startDate": "2018-06-01",
       "endDate": "2018-06-30",
       "highlights": [
-        "Implemented SaltStack as a configuration management system, automating OS updates, user access control, and software installation to enhance security and operational efficiency.",
-        "Worked with technologies including Ubuntu, CentOS, Linux system administration, backup management (EMC Networker, Veeam), disaster recovery planning, Nginx, HAProxy, Tomcat, MySQL, PostgreSQL, TeamCity, JIRA, Subversion, Git, Perforce, Elasticsearch, Logstash, and Kibana."
+        "Implemented SaltStack for configuration management, automating OS updates, user access control, and software installations, which increased update speed and significantly improved predictability and security of system administration.",
+        "Designed and deployed a centralized logging system using the ELK stack (Elasticsearch, Logstash, Kibana), improving incident response times through faster access to real-time log data and advanced analytics.",
+        "Enhanced the high availability of MySQL databases for Seafile by introducing MariaDB replication, ensuring data integrity and zero service downtime during failover scenarios.",
+        "Optimized performance and reliability of the Perforce version control system, reducing latency by 40% and supporting seamless collaboration for large development teams.",
+        "Administered and maintained Ubuntu and CentOS servers, overseeing regular backups and disaster recovery planning using EMC Networker and Veeam.",
+        "Improved application performance and uptime by fine-tuning Nginx, HAProxy, Tomcat, and underlying infrastructure, handling up to 150,000 daily user requests with minimal latency.",
+        "Proactively supported developers by troubleshooting and resolving issues with TeamCity servers and build agents, resulting in a decrease in build failures and significantly improving development team productivity.",
+        "Developed comprehensive documentation and operational runbooks, streamlining onboarding and enabling consistent infrastructure management."
+
       ]
     },
     {
@@ -96,12 +103,15 @@
       "startDate": "2012-08-01",
       "endDate": "2016-07-30",
       "highlights": [
-        "Administered and maintained two data centers with HP Superdome servers, ensuring high availability and optimal performance.",
-        "Managed and implemented Serviceguard on Linux/HP-UX for clustering and failover solutions.",
-        "Completed on-site training at HP to enhance expertise in high-availability technologies.",
-        "Developed and deployed a highly available load balancer using Nginx, DNS round-robin, Keepalived, and database replication enabling high availability, redundancy and zero-downtime releases.",
-        "Optimized system performance and fine-tuned configurations on RHEL, HP-UX, and CentOS environments to enhance stability and efficiency.",
-        "Conducted firmware updates and hardware maintenance for Itanium-based systems."
+        "Administered and maintained two enterprise data centers with HP Superdome servers, ensuring 99.99% uptime and optimal performance for critical business applications.",
+        "Managed and implemented Serviceguard clustering and failover solutions on Linux and HP-UX platforms, completing advanced on-site training at HP to further strengthen expertise in high-availability systems.",
+        "Automated deployment processes for new application versions across multiple environments using custom PowerShell scripts, reducing deployment time and minimizing human error.",
+        "Implemented database mirroring for MS SQL Server, improving data redundancy and enabling near real-time failover with zero data loss.",
+        "Developed and deployed a robust, highly available load balancer solution using Nginx, Keepalived, DNS round-robin, and database replication, achieving zero-downtime deployments and uninterrupted user experience.",
+        "Offloaded and cached static content at the Nginx layer, optimizing response times and reducing backend resource consumption, enabling the infrastructure to reliably serve over 200,000 connections daily.",
+        "Automated OS updates and tool installations on Red Hat systems using Puppet and Bash scripts, cutting update cycles and improving system consistency.",
+        "Performed regular firmware updates and hardware maintenance on Itanium-based systems, ensuring hardware reliability and security compliance.",
+        "Fine-tuned system performance and configurations for RHEL, HP-UX, and CentOS environments, resulting in an improvement in overall system stability and efficiency."
       ]
     },
     {
@@ -113,9 +123,13 @@
       "startDate": "2010-06-01",
       "endDate": "2012-06-30",
       "highlights": [
-        "Negotiated with ISP vendors and successfully upgraded the company’s internet connection from ADSL to fiber optic",
-        "Led office network cabling projects, designing and installing robust network infrastructure",
-        "Assisted with hardware configuration and troubleshooting, supporting both day-to-day operations and new equipment rollouts"
+        "Independently mastered Debian Linux and implemented a corporate cache proxy server using Squid, significantly improving internet access control, increasing browsing speed and reducing overall bandwidth load.",
+        "Negotiated with ISP vendors and successfully upgraded the company’s internet connection from ADSL to fiber optic, resulting in a 5x increase in connection speed and reduction in downtime.",
+        "Deployed KVM-based virtualization infrastructure, enabling the organization to transition from physical to virtual machines. This initiative increased server utilization efficiency and reduced hardware costs.",
+        "Led office network cabling projects, designing and installing robust network infrastructure to ensure reliable and scalable connectivity for all employees.",
+        "Assisted with hardware configuration and troubleshooting, supporting both day-to-day operations and new equipment rollouts, which improved issue resolution times.",
+        "Conducted employee training sessions on safe internet practices, increasing cybersecurity awareness and reducing incidents of security breaches."
+
       ]
     }
   ],
